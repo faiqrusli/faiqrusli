@@ -4,18 +4,10 @@ Software Engineering Student at Universiti Tenaga Nasional (UNITEN) passionate a
 
 Beyond software development, I'm always curious about how successful products are designed, built, deployed, and grown. I enjoy learning across software engineering, AI, cloud, product development, and business because building great software requires understanding more than just writing code.
 
-🚀 **Currently Building:** **FlowOS** — A personal execution and continuous improvement system that connects planning, focused work, progress, reflection, and improvement into one unified workflow.
+🚀 **Currently Building:** **FlowOS** — A personal execution system unifying tasks, planning, focus, notes, and reflection to help people execute what matters and continuously improve.
 
-**Tech**
+**Languages:** C++ • TypeScript • Java • Python • PHP • SQL
+**Technologies:** React • Next.js • Laravel • Flask • PostgreSQL • MySQL • Supabase • Docker
 
-**Languages:** C++ • TypeScript • JavaScript • Python • Java • PHP • SQL
-
-**Frameworks:** React • Next.js • Laravel • Flask • Tailwind CSS
-
-**Databases:** PostgreSQL • MySQL • Supabase
-
-**Tools:** Git • Docker • VS Code • Figma
-
-🌐 **FlowOS:** <https://flowos-sage.vercel.app>
-
-💼 **LinkedIn:** <https://linkedin.com/in/faiqrusli>
+**FlowOS:** <https://flowos-sage.vercel.app>
+**LinkedIn:** <https://linkedin.com/in/faiqrusli>
