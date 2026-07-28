@@ -1,34 +1,15 @@
 # Hi, I'm Faiq 👋
 
-Software Engineering Student at Universiti Tenaga Nasional (UNITEN) passionate about building thoughtful software with modern web technologies. I enjoy turning ideas into real products while continuously improving my software engineering and problem-solving skills.
+Software Engineering Student at Universiti Tenaga Nasional (UNITEN) passionate about building thoughtful software and turning ideas into real products.
 
-## 🚀 Currently Building
+🚀 **Currently Building:** **FlowOS** - An integrated productivity platform combining task management, habit tracking, scheduling, focus sessions, and reflections.
 
-### FlowOS
-An integrated productivity platform that combines task management, habit tracking, scheduling, focus sessions, and reflections into a unified workspace.
+**Tech:** Next.js • React • TypeScript • Tailwind CSS • shadcn/ui • PostgreSQL • Supabase
 
-**Tech**
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- shadcn/ui
-- PostgreSQL
-- Supabase
+**Languages:** C++ • TypeScript • JavaScript • Python • Java • SQL  
+**Frameworks:** React • Next.js • Laravel • Flask • Tailwind CSS  
+**Databases:** PostgreSQL • MySQL • Supabase  
+**Tools:** Git • Docker • Linux • VS Code • Figma
 
-## 💻 Tech Stack
-
-**Languages**  
-C++ • TypeScript • JavaScript • Python • Java • PHP • SQL
-
-**Frontend**  
-React • Next.js • Tailwind CSS
-
-**Backend**  
-Laravel • Flask • Node.js
-
-**Database**  
-PostgreSQL • MySQL • Supabase
-
-**Tools**  
-Git • Docker • Linux • VS Code • Figma
+🌐 **FlowOS:** https://flowos-sage.vercel.app  
+💼 **LinkedIn:** https://linkedin.com/in/faiqrusli
