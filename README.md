@@ -7,6 +7,7 @@ Beyond software development, I'm always curious about how successful products ar
 🚀 **Currently Building:** **FlowOS** — A personal execution system unifying tasks, planning, focus, notes, and reflection to help people execute what matters and continuously improve.
 
 **Languages:** C++ • TypeScript • Java • Python • PHP • SQL
+
 **Technologies:** React • Next.js • Laravel • Flask • PostgreSQL • MySQL • Supabase • Docker
 
 **FlowOS:** <https://flowos-sage.vercel.app>
