@@ -4,7 +4,7 @@ Software Engineering Student at Universiti Tenaga Nasional (UNITEN) passionate a
 
 Beyond software development, I'm always curious about how successful products are designed, built, deployed, and grown. I enjoy learning across software engineering, AI, cloud, product development, and business because building great software requires understanding more than just writing code.
 
-🚀 **Currently building FlowOS**, an integrated productivity platform designed to help people organize their work, build better habits, and stay focused.
+🚀 **Currently Building:** **FlowOS** — A personal execution and continuous improvement system that connects planning, focused work, progress, reflection, and improvement into one unified workflow.
 
 **Tech**
 
