@@ -7,13 +7,9 @@ Outside of coding, I'm constantly exploring new technologies and learning about 
 🚀 **Currently Building:** **FlowOS** - An integrated productivity platform combining task management, habit tracking, scheduling, focus sessions, and reflections.
 
 **Tech:** Next.js • React • TypeScript • Tailwind CSS • shadcn/ui • PostgreSQL • Supabase
-
 **Languages:** C++ • TypeScript • JavaScript • Python • Java • PHP • SQL
-
 **Frameworks:** React • Next.js • Laravel • Flask • Tailwind CSS
-
 **Databases:** PostgreSQL • MySQL • Supabase
-
 **Tools:** Git • Docker • VS Code • Figma
 
 🌐 **FlowOS:** https://flowos-sage.vercel.app  
