@@ -1,4 +1,4 @@
-# Hi, I'm Faiq 👋
+### Hi, I'm Faiq 👋
 
 Software Engineering Student at Universiti Tenaga Nasional (UNITEN) passionate about building software that solves real problems. I enjoy turning ideas into polished products and understanding every stage of the software development lifecycle.
 
